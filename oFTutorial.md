@@ -1,7 +1,7 @@
 #openFrameworks Quick-Start Guide for Mac
 
 This tutorial is for people who, like me, need some immediate gratification in order to feel like they are being productive.  The goal of this tutorial is for you to get openFrameworks up and running on your computer and get a basic program written that you can play around with in under an hour.  
-Disclaimer:  I am still very new to openFrameworks and to coding in general.  There will probably be many errors (please let me know) and there won't be a lot of coding theory.  I will _not_ be explaining why things work the way they do.  That's what the other tutorials are for.  This is more of a step-by-step, quick-start guide.
+**Disclaimer:**  I am still very new to openFrameworks and to coding in general.  There will probably be many errors (please let me know) and there won't be a lot of coding theory.  I will _not_ be explaining why things work the way they do.  That's what the other tutorials are for.  This is more of a step-by-step, quick-start guide.
 
 ##Steps
 1. Download [Xcode](https://developer.apple.com/xcode/).
