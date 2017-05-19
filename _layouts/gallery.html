@@ -1,0 +1,30 @@
+<!--- https://gist.github.com/opattison/6191106 -->
+
+{% include header.html %}
+
+<h2 class="content"> {{page.title}}</h2>
+<br>
+{{content}}
+<br>
+<article class="gallery" role="main">
+    <section class="photos">
+      {% for image in page.image %} <!-- Loop through the photos from the YAML frontmatter from an empty Jekyll post -->
+      <!-- <div class="row">
+      	<div class=  "col-lg-2 col-md-3 col-sm-4 col-xs-6"> -->
+      <figure>
+        <img src="{{ page.image[forloop.index0] }}" alt="{{ page.image-alt[forloop.index0] }}" class="img-responsive"> <!-- Insert the src, the alt text for each image, using the forloop.index0 liquid helper -->
+      </figure>
+      <figcaption>{{ page.image-caption[forloop.index0] }}</figcaption> <!-- and the figcaption too -->
+      <br>
+      <br>
+      <br>
+        <!-- </div>
+      </div> -->
+      {% endfor %}
+    </section>
+  </article>
+
+<br>
+
+
+{% include footer.html %}
