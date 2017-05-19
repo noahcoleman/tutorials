@@ -1,16 +1,9 @@
 ---
-layout: tutorial
+layout: post
 title: Custom PCB Shape in Fritzing using Adobe Illustrator
-image:
-  -
-
-image-alt:
-  - ''
-image-caption:
-  -
-
 tags: fritzing, pcb, svg, illustrator, electronics,  
-excerpt_separator: <!--more-->
+date:   2017-05-19 13:52:26 -0500
+
 ---
 {{page.title}}
 

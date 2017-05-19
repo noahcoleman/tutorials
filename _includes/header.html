@@ -2,6 +2,7 @@
 	<div class="container">
 		<nav>
 			<ul>
+				<!-- This is where pages get listed in the nav bar -->
 				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}

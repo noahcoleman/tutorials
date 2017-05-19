@@ -4,7 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About content goes here.
-
-* A list item
-* Another list item
+Noah Coleman is a maker, artist, and avid beard enthusiast.

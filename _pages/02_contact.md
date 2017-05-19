@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Contact content goes here.
-
-My e-mail is [email@something.com](mailto:email@something.com).
+Feel free to [contact me](mailto:noah@noahcoleman.net) with questions, concerns, or ideas for new posts!
