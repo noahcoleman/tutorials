@@ -1,4 +1,4 @@
 Tutorials
 =========
 
-Tutorials I have written
+Tutorials I have written.  Can be seen at https://noahcoleman.github.io/tutorials.
