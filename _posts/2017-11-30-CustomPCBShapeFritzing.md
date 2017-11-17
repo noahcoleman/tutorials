@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Custom PCB Shape in Fritzing using Adobe Illustrator
-tags: fritzing, pcb, svg, illustrator, electronics, othermill, bantam, tools, design
+tags: fritzing, pcb, svg, illustrator, electronics,  
 date:   2017-05-19 13:52:26 -0500
 
 ---
 {{page.title}}
 
-I have a new, secret project I am working on.  It's an electronics project and I'm going to need to cut out a PCB on the [Othermill](www.bantamtools.com).  Unlike other projects, however, where a regular ol' square PCB will do, this one really needs a custom shape.  I decided to design it in Fritzing, since that's the program I'm most comfortable with, but I've never made a custom shaped board before.  In theory, it's as simple as creating an SVG with your shape and importing that into Fritzing, but in practice, it was not so straightforward.  I had a few bumps along the way, and I want to share those so it is easier for those following in my footsteps. (Also as a reference for me if I want to do this again.)
+I have a new, secret project I am working on.  It's an electronics project and I'm going to need to cut out a PCB on the [Othermill](www.othermachine.co).  Unlike other projects, however, where a regular ol' square PCB will do, this one really needs a custom shape.  I decided to design it in Fritzing, since that's the program I'm most comfortable with, but I've never made a custom shaped board before.  In theory, it's as simple as creating an SVG with your shape and importing that into Fritzing, but in practice, it was not so straightforward.  I had a few bumps along the way, and I want to share those so it is easier for those following in my footsteps.
 
 For this tutorial, you will need:
 - Adobe Illustrator
-- [Fritzing](www.fritzing.org)
+- Fritzing
 - A text editor, like [Atom](www.atom.io)
 
 ### A Few Helpful Links
@@ -19,7 +19,7 @@ For this tutorial, you will need:
 - [Fritzing forum thread on problems with cutouts.](http://fritzing.org/forum/thread/3395/)
 
 ### Adobe Illustrator
-I know that a lot of people use Inkscape for vector work, but I happen to have access to Illustrator and I'm a lot more comfortable with it, so that's what I'm going to use.  First, open up a new file and then create your artwork.  My project involves some letter-shaped PCBs, so I used the text tool to create my letter, converted it to outlines, and then added a little rectangle at the bottom.  Your shape can be whatever you want.  It can even have cutouts like mine: (SCREENSHOT OF CUTOUT)
+I know that a lot of people use Inkscape for vector work, but I happen to have access to Illustrator, so that's what I'm going to use.  First, open up a new file and then create your artwork.  My project involves some letter-shaped PCBs, so I used the text tool to create my letter, converted it to outlines, and then added a little rectangle at the bottom.  Your shape can be whatever you want.  It can even have cutouts like mine: (SCREENSHOT OF CUTOUT)
 
 Make sure, per the Fritzing tutorial, that you have the "board" sub-layer and "silkscreen" sub-layer.
 
