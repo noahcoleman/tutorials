@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   These are tutorials and other teaching materials regarding electronics, digital fabrication, and other cool stuff.
 baseurl: "/tutorials" # the subpath of your site, e.g. /blog
 url: "http://noahcoleman.github.io/tutorials" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  noahcoleman
 
 # Build settings
@@ -29,4 +29,4 @@ include: ['_pages']
 kramdown:
   input: GFM
 
-theme: jekyll-theme-minimal
+theme: minima
