@@ -21,6 +21,7 @@ baseurl: "/tutorials" # the subpath of your site, e.g. /blog
 url: "http://noahcoleman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  noahcoleman
+instagram_username: noah.s.coleman
 
 # Build settings
 sass:
