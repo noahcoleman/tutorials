@@ -36,7 +36,7 @@ Here are links to download the Fusion 360 tool libraries I created:
 
 #### A Few Notes
 
-There are two sets of feeds & speeds listed on each page: one more conservative and one a little more aggressive. I used the advanced feeds & speeds in my libraries, so keep that in mind if you plan to use these tool libraries. I take no responsibility for any ruined materials or damaged end mills!
+On the Bantam website, there are two sets of feeds & speeds listed on each page: one more conservative and one a little more aggressive. I used the *advanced* feeds & speeds in my libraries, so keep that in mind if you plan to use these tool libraries. I take no responsibility for any ruined materials or damaged end mills!
 
 There are two tools in my libraries that are not in Bantam Tools' default library: a 1/4" flat end mill and a [1/8" 90° drill mill](http://www.lakeshorecarbide.com/18drillmill2flute90deg.aspx).  Feel free to delete these tools if you don't want them in there.
 
