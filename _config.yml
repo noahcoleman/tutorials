@@ -16,12 +16,12 @@
 title: Tutorials
 email: noah.s.coleman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  These are tutorials and other teaching materials regarding electronics, digital fabrication, and other cool stuff.
+  Tutorials and other teaching materials regarding art, electronics, digital fabrication, and other cool stuff.
 baseurl: "/tutorials" # the subpath of your site, e.g. /blog
 url: "http://noahcoleman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  noahcoleman
-instagram_username: noah.s.coleman
+instagram_username:  noah.s.coleman
 
 # Build settings
 sass:
