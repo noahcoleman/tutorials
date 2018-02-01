@@ -5,8 +5,6 @@ tags: fusion 360, bantam tools, cnc, 2018
 date: 2018-1-28 13:52:26 -0500
 
 ---
-{{page.title}}
-
 When I found out that [Bantam Tools](http://www.bantamtools.com) had custom tool libraries on their website, I was super excited. I had downloaded their Fusion 360 tool library a while back, but I had been manually changing the speeds and feeds in every time I set up a milling operation. Let me tell you: that got tedious really fast, so I was looking forward to being able to select the tool based on what material I was cutting.
 
 #### Failed Attempts
@@ -22,18 +20,19 @@ A little disheartened, but undeterred, I set about to make my *own* tool librari
 Using the [Fusion 360 tool library](https://support.bantamtools.com/hc/en-us/articles/115001671594-Fusion-360-Tool-Library) as a template, I made duplicate tool libraries for each entry on the materials page at bantamtools.com.
 
 Here are links to download the Fusion 360 tool libraries I created:
-- [ABS]({{site.static_files.}})
-<!-- - [Acrylic]()
-- [Aluminum]()
-- [Brass]()
-- [Delrin]()
+- [ABS]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/ABS.tools)
+- [Acrylic]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Acrylic.tools)
+- [Aluminum]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Aluminum.tools)
+- [Brass]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Brass.tools)
+- [Delrin]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Delrin.tools)
 - I skipped FR-1 because 99% of the time I mill FR-1 it's for a PCB and Bantam Tools does all the feeds & speeds work. Why reinvent the CNC machine?
-- [HDPE]()
-- [Machinable Foam]()
-- [Machinable Wax]()
-- [Polycarbonate]()
-- [Plywood]()
-- [Hardwood]() -->
+- [HDPE]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/HDPE.tools)
+- [Machinable Foam]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Machining_Foam.tools)
+- [Machinable Wax]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Machining_Wax.tools)
+- [Polycarbonate]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Polycarbonate.tools)
+- Wood (Bantam Tools supplies two sets of feeds and speeds: one for plywood and one for hardwood)
+  - [Plywood]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Plywood.tools)
+  - [Hardwood]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/Hardwood.tools)
 
 #### A Few Notes
 
