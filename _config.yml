@@ -32,3 +32,5 @@ kramdown:
   input: GFM
 
 theme: minima
+plugins_dir:
+  - jemoji
