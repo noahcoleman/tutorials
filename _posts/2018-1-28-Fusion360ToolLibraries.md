@@ -2,7 +2,7 @@
 layout: page
 title: Fusion 360 Tool Libraries
 tags: fusion 360, bantam tools, cnc, 2018
-date: 2018-1-28 13:52:26 -0500
+date: 2018-1-28 
 
 ---
 When I found out that [Bantam Tools](http://www.bantamtools.com) had custom tool libraries on their website, I was super excited. I had downloaded their Fusion 360 tool library a while back, but I had been manually changing the speeds and feeds in every time I set up a milling operation. Let me tell you: that got tedious really fast, so I was looking forward to being able to select the tool based on what material I was cutting.
