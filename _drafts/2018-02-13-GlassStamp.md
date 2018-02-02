@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Title
-tags: put, some, tags here
-date: 2018-1-28 13:52:26 -0500
+title: CNC Milled Glass Stamp
+tags: glass, cnc, glassblowing, brass, metal, fusion 360
+date: 2018-2-13
 
 ---
 
-Body text goes here.
+I'm making this thing.
