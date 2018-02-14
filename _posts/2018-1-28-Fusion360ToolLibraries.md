@@ -2,7 +2,8 @@
 layout: page
 title: Fusion 360 Tool Libraries
 tags: fusion 360, bantam tools, cnc, 2018
-date: 2018-1-28 
+date: 2018-1-28
+permalink: /:year/:title
 
 ---
 When I found out that [Bantam Tools](http://www.bantamtools.com) had custom tool libraries on their website, I was super excited. I had downloaded their Fusion 360 tool library a while back, but I had been manually changing the speeds and feeds in every time I set up a milling operation. Let me tell you: that got tedious really fast, so I was looking forward to being able to select the tool based on what material I was cutting.
@@ -17,7 +18,7 @@ A little disheartened, but undeterred, I set about to make my *own* tool librari
 
 #### DIY Tool Libraries
 
-Using the [Fusion 360 tool library](https://support.bantamtools.com/hc/en-us/articles/115001671594-Fusion-360-Tool-Library) as a template, I made duplicate tool libraries for each entry on the materials page at bantamtools.com.
+Using the [Fusion 360 tool library](https://support.bantamtools.com/hc/en-us/articles/115001671594-Fusion-360-Tool-Library) as a starting point, I made duplicate tool libraries for each entry on the materials page at bantamtools.com.
 
 Here are links to download the Fusion 360 tool libraries I created:
 - [ABS]({{ site.baseurl }}/assets/downloads/Fusion360ToolLibraries/ABS.tools)
@@ -36,7 +37,7 @@ Here are links to download the Fusion 360 tool libraries I created:
 
 #### A Few Notes
 
-On the Bantam website, there are two sets of feeds & speeds listed on each page: one more conservative and one a little more aggressive. I used the *advanced* feeds & speeds in my libraries, so keep that in mind if you plan to use these tool libraries. I take no responsibility for any ruined materials or damaged end mills!
+On the Bantam website, there are two sets of feeds & speeds listed on each page: one more conservative and one a little more aggressive. I based my tool libraries on the *advanced* feeds & speeds, so keep that in mind if you plan to use these tool libraries. I take no responsibility for any ruined materials or damaged end mills!
 
 There are two tools in my libraries that are not in Bantam Tools' default library: a 1/4" flat end mill and a [1/8" 90° drill mill](http://www.lakeshorecarbide.com/18drillmill2flute90deg.aspx).  Feel free to delete these tools if you don't want them in there.
 
