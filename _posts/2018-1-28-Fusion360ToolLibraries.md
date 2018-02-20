@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fusion 360 Tool Libraries
-tags: fusion 360, bantam tools, cnc, 2018
+tags: fusion 360, bantam tools, cnc, 2018, download
 date: 2018-1-28
 permalink: /:year/:title
 
