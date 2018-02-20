@@ -2,7 +2,7 @@
 layout: post
 title: Custom PCB Shape in Fritzing using Adobe Illustrator
 tags: fritzing, pcb, svg, illustrator, electronics,  
-date:   2017-11-16 13:52:26 -0500
+date:   2018-11-16 13:52:26 -0500
 
 ---
 {{page.title}}
