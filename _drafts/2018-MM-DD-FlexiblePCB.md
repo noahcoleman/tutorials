@@ -2,7 +2,7 @@
 layout: post
 title: Flexible PCB
 tags: cnc, PCB, bantam, download, electronics, SMD
-date: 2018-MM-DD
+date: 2018-12-31
 permalink: /:year/:title
 
 ---
