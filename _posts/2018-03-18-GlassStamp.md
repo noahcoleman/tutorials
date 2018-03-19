@@ -6,7 +6,7 @@ date: 2018-3-18
 permalink: /:year/:title
 ---
 
-Part of my day job involves managing the glassblowing shop at [Ringling College of Art & Design](www.ringling.edu) and I have been wanting to make something for the hot shop with my CNC.  After some thought and a little research, I settled on some hot glass stamps.  I found out they're called [prunts](https://en.wikipedia.org/wiki/Prunt) and they're usually used to stamp designs into blobs of hot glass that have been applied to a vessel or other object.
+Part of my day job involves managing the glassblowing studio at [Ringling College of Art & Design](www.ringling.edu) and I have been wanting to make something for the hot shop with my CNC.  After some thought and a little research, I settled on making some hot glass stamps.  I found out they're called [prunts](https://en.wikipedia.org/wiki/Prunt) and they're usually used to stamp designs into blobs of hot glass that have been applied to a vessel or other object.
 
 ![Raspberry designs stamped onto a vessel.]({{ site.baseurl }}/assets/img/Prunt/pruntExample.jpg){:class="img-responsive"}
 
