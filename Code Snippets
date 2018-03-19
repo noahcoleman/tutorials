@@ -1,3 +1,9 @@
 // Add a responsive image in a post
 
 ![image-title-here]({{ site.baseurl }}/assets/img/postTitle/photo.jpg){:class="img-responsive"}
+
+// Em dash
+&mdash;
+
+// If image is not in correct orientation, rotate 360 in Preview and save.  That should fix it.
+//https://stackoverflow.com/questions/19434073/how-can-i-avoid-that-github-rotates-my-jpg-in-my-readme-md
