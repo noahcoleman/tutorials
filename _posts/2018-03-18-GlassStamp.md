@@ -4,6 +4,7 @@ title: CNC Milled Glass Stamp
 tags: glass, cnc, glassblowing, brass, metal, fusion 360, adaptive, feeds and speeds, fixturing
 date: 2018-3-18
 permalink: /:year/:title
+thumbnail: Prunt/finalPrunt.JPG
 ---
 
 Part of my day job involves managing the glassblowing studio at [Ringling College of Art & Design](www.ringling.edu) and I have been wanting to make something for the hot shop with my CNC.  After some thought and a little research, I settled on making some hot glass stamps.  I found out they're called [prunts](https://en.wikipedia.org/wiki/Prunt) and they're usually used to stamp designs into blobs of hot glass that have been applied to a vessel or other object.

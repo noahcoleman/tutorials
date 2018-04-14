@@ -4,6 +4,7 @@ title: Motorcycle Cruise Control
 tags: cnc, plastic, fusion 360, hdpe, motorcycle, bantam, mistake, download
 date: 2018-2-26
 permalink: /:year/:title
+thumbnail: MotoCruiseControl/Moto.jpg
 ---
 ![My motorcycle.]({{ site.baseurl }}/assets/img/MotoCruiseControl/Moto.jpg){:class="img-responsive"}
 
