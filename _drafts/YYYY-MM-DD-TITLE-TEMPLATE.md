@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Title
-tags: put, some, tags here
-date: 2018-1-28 13:52:26 -0500
+tags: put, some, tags, here
+date: 2018-4-1 00:00:01 -0500
+permalink: /:year/:title
+thumbnail: DirWithImages/ThumbnailImage.jpg
 
 ---
 
