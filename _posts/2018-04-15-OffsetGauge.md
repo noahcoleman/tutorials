@@ -2,7 +2,7 @@
 layout: post
 title: (Not so) Simple Offset Gauge
 tags: fusion 360, bantam, mistake, cnc, fail, machining, aluminum
-date: 2018-4-1 00:00:01 -0500
+date: 2018-4-15 00:00:01 -0500
 permalink: /:year/:title
 thumbnail: OffsetGauge/OffsetGauge.png
 
