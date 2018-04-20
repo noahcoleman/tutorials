@@ -7,3 +7,5 @@
 
 // If image is not in correct orientation, rotate 360 in Preview and save.  That should fix it.
 //https://stackoverflow.com/questions/19434073/how-can-i-avoid-that-github-rotates-my-jpg-in-my-readme-md
+
+// To force a post to not-publish, you can add 'published: false' to the YAML frontmatter
