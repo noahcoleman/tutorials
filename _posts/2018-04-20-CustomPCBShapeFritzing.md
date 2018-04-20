@@ -2,7 +2,7 @@
 layout: post
 title: Custom LED Marquee Letter PCB
 tags: fritzing, pcb, svg, illustrator, electronics, CNC, tutorial, inkscape
-date:   2018-04-20 13:52:26 -0500
+date:   2018-04-20 13:52:26
 permalink: /:year/:title
 thumbnail: CustomShapePCBFritzing/Success.png
 ---
